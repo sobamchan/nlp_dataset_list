@@ -6,5 +6,8 @@
 ## DA
 - [JAIST DA labeled dataet (ja)](https://www.gsk.or.jp/catalog/gsk2017-b/)
 
+## AMR
+- https://catalog.ldc.upenn.edu/LDC2017T10
+
 ## Others
 - [UCSC lab page for datasets](https://nlds.soe.ucsc.edu/software)
