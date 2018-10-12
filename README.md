@@ -13,5 +13,8 @@
 ## Textual Entailment
 - [SemEval 2014 SICK dataset](http://alt.qcri.org/semeval2014/task1/index.php?id=data-and-tools)
 
+## Dialogue
+- [Cornell Movie-Dialogue](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+
 ## Others
 - [UCSC lab page for datasets](https://nlds.soe.ucsc.edu/software)
